@@ -1,0 +1,30 @@
+2021-02-02 19:13:03,039 INFO  [Log] Application opened 
+2021-02-02 19:13:04,087 INFO  [Log] Login Completed 
+2021-02-02 19:13:04,157 INFO  [Log] Logout Complted 
+2021-02-02 19:13:04,259 INFO  [Log] Application closed 
+2021-02-02 19:14:13,138 INFO  [Log] Application opened 
+2021-02-02 19:14:14,142 INFO  [Log] Login Completed 
+2021-02-02 19:14:17,155 INFO  [Log] adding new emp 
+2021-02-02 19:14:20,162 INFO  [Log] Delete emp 
+2021-02-02 19:14:23,218 INFO  [Log] Logout Complted 
+2021-02-02 19:14:26,314 INFO  [Log] Application closed 
+2021-02-02 19:15:29,760 INFO  [Log] Application opened 
+2021-02-02 19:15:30,716 INFO  [Log] Login Completed 
+2021-02-02 19:15:30,785 INFO  [Log] Logout Complted 
+2021-02-02 19:15:30,848 INFO  [Log] Application closed 
+2021-02-02 19:15:34,218 INFO  [Log] Application opened 
+2021-02-02 19:15:35,224 INFO  [Log] Login Completed 
+2021-02-02 19:15:38,225 INFO  [Log] adding new emp 
+2021-02-02 19:15:41,226 INFO  [Log] Delete emp 
+2021-02-02 19:15:44,284 INFO  [Log] Logout Complted 
+2021-02-02 19:15:47,370 INFO  [Log] Application closed 
+2021-02-03 19:20:08,155 INFO  [Log] Application opened 
+2021-02-03 19:20:10,042 INFO  [Log] Login Completed 
+2021-02-03 19:20:10,108 INFO  [Log] Logout Complted 
+2021-02-03 19:20:10,167 INFO  [Log] Application closed 
+2021-02-03 19:20:13,621 INFO  [Log] Application opened 
+2021-02-03 19:20:15,045 INFO  [Log] Login Completed 
+2021-02-03 19:20:18,046 INFO  [Log] adding new emp 
+2021-02-03 19:20:21,047 INFO  [Log] Delete emp 
+2021-02-03 19:20:24,102 INFO  [Log] Logout Complted 
+2021-02-03 19:20:27,168 INFO  [Log] Application closed 
